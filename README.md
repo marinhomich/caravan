@@ -1,10 +1,10 @@
-# Caravan
+# :page_facing_up: - Caravan
 Site desenvolvido no curso Bootstrap 4 - Origamid
 
 
 <a id="sobre-a-bikcraft"></a>
-## Sobre o Projeto
-??
+## :page_facing_up: Sobre o Projeto
+Projeto realizado durante o curso de Bootstrap 4 da Origamid
 
 <a id="tecnologias"></a>
 ## :zap: Tecnologias
