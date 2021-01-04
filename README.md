@@ -26,7 +26,7 @@ $ cd
 ```
 
 <a id="licenca"></a>
-## :page_facing_up: Licença
+## :memo: Licença
 ???
 
 <a id="contato"></a>
