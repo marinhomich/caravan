@@ -8,8 +8,7 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 
 * HTML5
 * CSS3
-* JavaScript (utilização dos plugins <a href="https://github.com/origamid/simple-slide">Simple Slide</a>, <a href="https://github.com/origamid/simple-anime">Simple Anime</a> e <a href="https://github.com/origamid/simple-form">Simple Form</a>)
-* PHP (envio do formulário de contato com <a href="https://github.com/PHPMailer/PHPMailer">PHP Mailer</a> ou <a href="https://sendgrid.com/">Sendgrid</a>)
+* JavaScript 
 
 #### Utilitários
 * Fontes: <a href="https://fonts.google.com/specimen/Montserrat?query=montserrat">Montserrat</a> e <a href="https://fonts.google.com/specimen/Lora?query=lora">Lora</a>
