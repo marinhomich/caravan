@@ -10,10 +10,6 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 * CSS3
 * JavaScript 
 
-#### Utilitários
-* Fontes: <a href="https://fonts.google.com/specimen/Montserrat?query=montserrat">Montserrat</a> e <a href="https://fonts.google.com/specimen/Lora?query=lora">Lora</a>
-* Efeito do botão: <a href="https://codepen.io/karimbalaa/pen/qERbB">Slick Button</a>
-
 <a id="como-executar-o-projeto"></a>
 ## :point_right: Como executar o projeto
 ```
