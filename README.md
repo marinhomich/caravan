@@ -22,7 +22,7 @@ $ cd caravan
 
 <a id="licenca"></a>
 ## :memo: Licença
-???
+O projeto está sob a licença MIT. Para maiores detalhes, acesse <a href="https://github.com/marinhomich/caravan/blob/main/LICENSE">LICENSE</a>.
 
 <a id="contato"></a>
 ## :coffee: Entre em contato!
