@@ -14,10 +14,10 @@ Esse projeto foi desenvolvido com as seguintes ferramentas:
 ## :point_right: Como executar o projeto
 ```
 - Clone o repositório:
-$ git clone https://github.com/marinhomich/
+$ git clone https://github.com/marinhomich/caravan.git
 
 - Entre no diretório:
-$ cd 
+$ cd caravan
 ```
 
 <a id="licenca"></a>
