@@ -1,6 +1,6 @@
 <a id="sobre-a-bikcraft"></a>
 ## :page_facing_up: Sobre o Projeto
-Projeto realizado durante o curso de Bootstrap 4 da Origamid
+Projeto realizado durante o curso de Bootstrap 4 da <a href="https://www.origamid.com/">Origamid</a>.
 
 <a id="tecnologias"></a>
 ## :zap: Tecnologias
